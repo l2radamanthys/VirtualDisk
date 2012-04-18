@@ -3,7 +3,7 @@
     <type>org.netbeans.modules.python.project</type>
     <configuration>
         <data xmlns="http://nbpython.dev.java.net/ns/php-project/1">
-            <name>NewPythonProject</name>
+            <name>VirtualDisk</name>
             <sources>
                 <root id="VirtualDisk.dir"/>
             </sources>

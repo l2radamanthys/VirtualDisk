@@ -1,0 +1,8 @@
+masomenos como va a funkar esto...
+
+1 - bajar la db del servidor
+2 - generar las sumas MD5 de todos los archivos locales
+3 - comparar con las sumas MD5 de los archivos en servidor
+4 - subir los nuevos archivos y/o modificados
+5 - actualizar la BD
+6 - subir la bd 

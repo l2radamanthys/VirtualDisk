@@ -1,2 +1,5 @@
 *.bat
+*.pyc
 *.db
+*.csv
+/disk

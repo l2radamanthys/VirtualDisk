@@ -10,14 +10,14 @@ ROOT_FOLDER = "/public_html" #carpeta raiz
 
 
 #DATOS LOCALES
-FOLDER_PATH = "D:\\Proyectos\\VirtualDisk\\disk" #carpeta q funcionara como disco virtual
-DB_FOLDER = ".virtualdisk" #ni idea que era
-DB_NAME = "vdisk.db" #nombre de la bd
+FOLDER_PATH = "D:\Proyectos\VirtualDisk\disk" #carpeta q funcionara como disco virtual
+DB_FOLDER = ".virtualdisk"
+DB_NAME = "database.db"
 
 
 
 SQL_TABLE = """
-CREATE TABLE IF NOT EXISTS Files (
+CREATE TABLE Files (
     name VARCHAR(250),
     path VARCHAR(250),
     md5 VARCHAR(30)
